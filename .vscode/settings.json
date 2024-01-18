@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Lab 2",
         "BaiThucHanhJava",
-        "Lab 2"
+        "BaiTH_Java"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
