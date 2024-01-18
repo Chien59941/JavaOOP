@@ -1,6 +1,8 @@
+package src;
+
 import java.util.Scanner;
 
-public class Bai1 {
+public class Bai_1 {
     public static void main(String[] args) {
         double a,b, tong, hieu, tich, thuong, phandu;
         Scanner sc = new Scanner(System.in);
@@ -27,6 +29,5 @@ public class Bai1 {
         System.out.println("a lon hon b");
         else
         System.out.println("a nho hon b");
+        }
     }
-    }    
-
