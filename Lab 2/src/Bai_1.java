@@ -6,9 +6,9 @@ public class Bai_1 {
     public static void main(String[] args) {
         double a,b, tong, hieu, tich, thuong, phandu;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhap a");
+        System.out.println("Nhap a: ");
         a = sc.nextDouble();
-        System.out.println("Nhap b");
+        System.out.println("Nhap b: ");
         b = sc.nextDouble();
         tong = a + b;
         System.out.println("Tong cua 2 so bat ky la " + tong);
@@ -26,8 +26,8 @@ public class Bai_1 {
         if(a==b)
         System.out.println("Hai so bang nhau");
         else if(a > b)
-        System.out.println("a lon hon b");
+        System.out.println("a lon hon b  ");
         else
-        System.out.println("a nho hon b");
+        System.out.println("a nho hon b   ");
         }
     }
