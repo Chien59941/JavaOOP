@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class GiaiPTBac1 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         double a,b,x;
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap a: ");
