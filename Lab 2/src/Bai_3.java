@@ -16,7 +16,6 @@ public class Bai_3 {
         else if((2024 - a) >= 16 && (2024 - a) < 18)
             System.out.println("Ban " + Ten + " o do tuoi truong thanh");
         else
-            System.out.println("Ban " + Ten + " da gia");    
-
+            System.out.println("Ban " + Ten + " da gia");
     }
 }
