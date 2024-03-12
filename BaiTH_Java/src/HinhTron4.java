@@ -1,10 +1,10 @@
 public class HinhTron4 {
     import java.util.Scanner;
 
-     final float PI = 3.14f;
-     float r;
-     float cv;
-     float dt;
+    final float PI = 3.14f;
+    float r;
+    float cv;
+    float dt;
 
     public void nhapBK()
     { 
