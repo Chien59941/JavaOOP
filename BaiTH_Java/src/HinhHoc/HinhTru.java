@@ -9,6 +9,7 @@ public class HinhTru extends HinhTron {
         ten = "Hinh Tru";
     }
 
+    
     public void nhapChieuCao() {
         nhapBanKinh();
         Scanner sc = new Scanner(System.in);

@@ -32,3 +32,5 @@ public class HinhChuNhat extends Hinhhoc
         dienTich = dai*rong;
     }
 }
+
+

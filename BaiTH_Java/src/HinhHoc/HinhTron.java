@@ -9,6 +9,7 @@ public class HinhTron extends Hinhhoc {
         ten = "Hinh tron";
         chuVi = 314;
         dienTich = 516;
+
     }
     public void nhapBanKinh()
     {

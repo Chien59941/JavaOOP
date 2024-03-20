@@ -10,6 +10,7 @@ public class Hinhhoc {
     public Hinhhoc()
     {
         ten = "Hinh hoc" + "\n";
+        
     }
     public void xuatTen()
     {

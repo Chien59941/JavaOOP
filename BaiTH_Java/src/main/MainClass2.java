@@ -8,5 +8,4 @@ public class MainClass2 {
         ht21.banKinh = 20;
         ht21.tinhDienTicH();
     }
-    
 }

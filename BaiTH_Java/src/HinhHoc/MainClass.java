@@ -10,6 +10,7 @@ public class MainClass {
         ht.inChuVi();
         ht.inDienTich();
 
+        
         HinhTru htru = new HinhTru();
         htru.xuatTen();
         htru.nhapChieuCao();
