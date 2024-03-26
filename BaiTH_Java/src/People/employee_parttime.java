@@ -6,7 +6,7 @@ public class employee_parttime extends employee {
     public final float Luong1h = 20.0f;
     public Float gio;
     public void so_gio_lam()
-    {   nhapThongTin();
+    {   
         Scanner sc = new Scanner(System.in);
         System.out.print("So gio lam: ");
         gio = sc.nextFloat();
